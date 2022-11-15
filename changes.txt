@@ -1,0 +1,17 @@
+변경사항
+
+애니메이션 프레임
+게이지 반복
+빗맞혔을때
+명중했을때
+점수 추가
+bootstrap(첫화면,게임화면)
+쿠키 저장
+
+https://kor.pngtree.com/ (배경)
+https://thereclub.tistory.com/59 (쿠키)
+https://codingbroker.tistory.com/76 (원본)
+https://lifere.tistory.com/entry/HTML-canvas-태그-Javascript로-제어하기-게임-만들기 (프레임향상)
+https://coding-plant.tistory.com/110 (js 안에서 js 사용하기)
+https://startbootstrap.com/theme/grayscale
+https://startbootstrap.com/template/bare
