@@ -26,4 +26,4 @@
 * [스크롤 차단](https://amagrammer91.tistory.com/4)
 ---
 ### 직접 게임 해보기
-#### [Play!](https://snowscapes.github.io/KSGameCanvas)
+#### [Play!(Github.io)](https://snowscapes.github.io/KSGameCanvas)
