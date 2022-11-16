@@ -16,3 +16,12 @@
 * 인트로 페이지 추가
 * 게임 페이지 수정
 ---
+### Referencees
+* [인트로배경](https://kor.pngtree.com/)
+* [BootStrap 템플릿1](https://startbootstrap.com/theme/grayscale)
+* [BootStrap 템플릿2](https://startbootstrap.com/template/bare)
+* [브라우저 쿠키](https://thereclub.tistory.com/59)
+* [wAF](https://lifere.tistory.com/entry/HTML-canvas-태그-Javascript로-제어하기-게임-만들기)
+* [js load](https://coding-plant.tistory.com/110)
+* [스크롤 차단](https://amagrammer91.tistory.com/4)
+* ---
