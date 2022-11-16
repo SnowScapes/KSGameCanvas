@@ -24,4 +24,4 @@
 * [wAF](https://lifere.tistory.com/entry/HTML-canvas-태그-Javascript로-제어하기-게임-만들기)
 * [js load](https://coding-plant.tistory.com/110)
 * [스크롤 차단](https://amagrammer91.tistory.com/4)
-* ---
+---
